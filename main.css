@@ -1,0 +1,76 @@
+body {
+    font-family: 'Barlow', sans-serif;
+}
+
+#sobre,
+#filmes {
+    background-color: rgb(207, 207, 245);
+}
+
+#conferencias,
+#contato {
+    background-color: rgb(241, 241, 255);
+}
+
+.navbar-brand {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 32px;
+}
+
+.text-colored,
+.nav-filmes .nav-link:hover {
+    color: rgb(76, 76, 228);
+}
+
+.navbar {
+    background-color: rgb(76, 76, 228);
+}
+
+.navbar li a,
+.navbar li a:hover,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-filmes .nav-link.active:hover {
+    color: white;
+}
+
+.navbar .nav .nav-link.active {
+    background-color: white;
+    color: rgb(76, 76, 228);
+}
+
+.navbar-toggler {
+    background: white;
+}
+
+.nav-filmes .nav-link.active {
+    background-color: rgb(76, 76, 228);
+}
+
+#contato .btn {
+    background-color: rgb(76, 76, 228);
+    color: white;
+}
+
+.social li {
+    list-style: none;
+    display: inline;
+}
+
+.social a {
+    color: rgb(76, 76, 228);
+    text-decoration: none;
+}
+
+@media (max-width: 767px) {
+    .carousel img {
+        height: 280px;
+    }
+}
+
+
+
+
+
+
+
