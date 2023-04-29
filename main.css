@@ -28,7 +28,6 @@ body {
 
 .navbar li a,
 .navbar li a:hover,
-.navbar li a::selection,
 .navbar-brand,
 .navbar-brand:hover,
 .nav-filmes .nav-link.active:hover {
