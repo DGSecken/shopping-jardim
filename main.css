@@ -26,6 +26,7 @@ body {
     background-color: rgb(76, 76, 228);
 }
 
+
 .navbar li a,
 .navbar li a:hover,
 .navbar-brand,
@@ -41,10 +42,6 @@ body {
 
 .navbar-toggler {
     background: white;
-}
-
-.nav-filmes .nav-link.active {
-    background-color: rgb(76, 76, 228);
 }
 
 #contato .btn {
